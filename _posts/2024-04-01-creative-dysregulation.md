@@ -20,7 +20,7 @@ There's a self assessment that she includes so you can get a feel for where your
 
 You can see my hand drawn self assessment results below. 
 
-![Creative Dysregulation Self Assessment](/assets/dyregulation_circle.jpg)
+![Creative Dysregulation Self Assessment](/assets/dysregulation_circle.jpg)
 
 I had two big changes that came in the short term from reading the book. 
 1. **I realized that the spiritual dimension of my work was missing.** This is has encouraged me to really dive into my values and start examining how my work is related to them. 
