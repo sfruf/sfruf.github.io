@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Isn't Improv a more Liberatory Art Form
+title: Why Isn't Improv a More Liberatory Art Form
 tags:
   - open_question
 ---
