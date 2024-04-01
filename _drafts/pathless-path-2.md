@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Things the resonanted from the pathless path the second time around"
+title: Things the resonated from the pathless path the second time around
 ---
 
 "The ease of having an ambition is that it can be explained to others; the very disease of ambition is that it can be so easily explained to others. " -David Whyte

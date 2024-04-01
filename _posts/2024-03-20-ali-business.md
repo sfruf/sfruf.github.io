@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Ali Abdaal's recommended reading on starting a business "
-#date:   2024-03-04 17:05:49 -0500
-#categories: jekyll update
+title: "Ali Abdaal's recommended reading on starting a business "
+tags:
+  - resource
+  - business
 ---
 From his [Sunday Snippets newsletter](https://aliabdaal.com/newsletter/a-conversation-with-an-aspiring-entrepreneur/)
 

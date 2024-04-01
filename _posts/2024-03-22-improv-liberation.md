@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Why Isn't Improv a more Liberatory Art Form"
-#date:   2024-03-04 17:05:49 -0500
-tag: open question
+title: Why Isn't Improv a more Liberatory Art Form
+tags:
+  - open_question
 ---
 
 I've been getting into Contact Improvisation recently. Maybe I'm just in that new hobby haze, but it seems that Contact leads people who really engage with it to change how they interact with others at a fundamental level. It feels like Contact encourages people to reexamine how they live their lives in a way that I haven't seen improvised theater do, at least in the US. 
