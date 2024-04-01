@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ali Abdaal's recommended reading on starting a business "
+title: Ali Abdaal's Recommended Reading on Starting a Business
 tags:
   - resource
   - business
