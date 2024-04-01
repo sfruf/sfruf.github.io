@@ -23,11 +23,12 @@ You can see my hand drawn self assessment results below.
 ![Creative Dysregulation Self Assessment](/assets/dysregulation_circle.jpg)
 
 I had two big changes that came in the short term from reading the book. 
-1. **I realized that the spiritual dimension of my work was missing.** This is has encouraged me to really dive into my values and start examining how my work is related to them. 
+
+ **I realized that the spiritual dimension of my work was missing.** This is has encouraged me to really dive into my values and start examining how my work is related to them. 
 
 This has been a terrifying process. I haven't been watching my values because there's part of me that believes that I won't be able to live up to them. That part is convinced that I don't have the strength to do it, that I'll always default to the easy path. Understanding and unpacking that voice has been a lot. Good, but a lot. 
 
-2. **I did a Creative Funeral and it's why this web-log exists.** One of the exercises that Miller suggests in the book is a Creative Funeral, a ritual to let go of creative projects that are past their time but still taking up mental space. For me, it involved letting go of a number of projects that had lost all vibrancy and letting go of my expectations of other projects. 
+ **I did a Creative Funeral and it's why this web-log exists.** One of the exercises that Miller suggests in the book is a Creative Funeral, a ritual to let go of creative projects that are past their time but still taking up mental space. For me, it involved letting go of a number of projects that had lost all vibrancy and letting go of my expectations of other projects. 
 
 I called the letting go of expectation process a half funeral. So in the case of this web-log, I needed to let go of my expectations of audience focused, metric overdriven writing that characterized my past attempts at blogging. I'm still energized by the image of myself as someone who writes on the internet so it wasn't time for a full funeral for blogging. 
 
