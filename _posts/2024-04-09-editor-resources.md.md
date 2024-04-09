@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Resources to Help You Be A Better Editor
+tags:
+  - resource
+  - writing
 ---
 1. Great list of editing criteria
 https://evaparish.com/blog/how-i-edit
