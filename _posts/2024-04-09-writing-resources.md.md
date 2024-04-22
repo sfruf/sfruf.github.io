@@ -4,6 +4,7 @@ title: Resources I like on Writing and Editing
 tags:
   - resource
   - writing
+  - ongoing
 ---
 1. Great list of editing criteria
 https://evaparish.com/blog/how-i-edit

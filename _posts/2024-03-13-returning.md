@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "It's in the returning"
-#date:   2024-03-04 17:05:49 -0500
-#categories: jekyll update
+title: It's in the returning
+tags:
+  - writing
+  - blog
 ---
 
 Love of a craft is not in the never having stopped, it's in the returning. 
