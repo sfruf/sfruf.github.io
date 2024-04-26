@@ -4,7 +4,7 @@ title: The Wonder of Passive Time
 tags:
   - writing
 ---
-I'm really appreciating the power of passive time in the writing process after revisiting Steph Smith's [Writing is Thinking](https://blog.stephsmith.io/learning-to-write-with-confidence/) while gathering my list of [writing resources](/2024/04/09/writing-resources.md.html). 
+I'm really appreciating the power of passive time in the writing process after revisiting Steph Smith's [Writing is Thinking](https://blog.stephsmith.io/learning-to-write-with-confidence/) while gathering my list of [writing resources](/2024/04/09/writing-resources.html). 
 
 Yesterday, I had a classic office afternoon. Which is to say, at 2 pm I was dead tired, had a brain like a bog wrapped in cotton candy, and needed to do anything but work. I decided to try thinking about ideas for posts on this here web-log. 
 
