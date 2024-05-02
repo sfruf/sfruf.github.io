@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9df9a32f67af8ad6",
+        "id": "553a96f8248ef857",
         "type": "tabs",
         "children": [
           {
-            "id": "998305a1ab8b5f55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-03-11-web-log.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a59090599741913",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_drafts/2024-04-01-2022-Books.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f364a708b8e3909",
+            "id": "7ef0e06350f0cf37",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +18,105 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b22a5afd13e387c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-04-05-2022-Books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dadc69e06540a8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-04-09-writing-resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3121ea6226b8dc6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-04-09-writing-resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "264f22e5153058fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-04-10-passive-wonder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5acb3cd209e37858",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-04-22-list-of-lists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9273db57d0bf3ac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-04-22-soupin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b20d221abb3f18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-05-02-entrepreneurs-heros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14a2ab6792c5d637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/2024-05-02-sf-humanity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -94,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 321.5
   },
   "right": {
     "id": "615dfd46b8f01821",
@@ -110,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-04-01-creative-dysregulation.md",
+                "file": "_drafts/2024-05-02-sf-humanity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-04-01-creative-dysregulation.md",
+                "file": "_drafts/2024-05-02-sf-humanity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-04-01-creative-dysregulation.md"
+                "file": "_drafts/2024-05-02-sf-humanity.md"
               }
             }
           }
@@ -171,20 +243,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f364a708b8e3909",
+  "active": "14a2ab6792c5d637",
   "lastOpenFiles": [
-    "assets.md",
+    "_posts/2024-05-02-entrepreneurs-heros.md",
+    "_drafts/2024-05-02-sf-humanity.md",
     "_posts/2024-04-01-creative-dysregulation.md",
-    "assets/dysregulation_circle.jpg",
-    "_posts/2024-03-11-web-log.md",
-    "_drafts/2024-04-01-2022-Books.md",
-    "_posts/2024-03-22-improv-liberation.md",
-    "_drafts/pathless-path-2.md",
-    "_drafts/excuses.md",
-    "_posts/2024-03-13-returning.md",
+    "_posts/2024-04-10-passive-wonder.md",
+    "2024/04/09/writing-resources.html.md",
+    "2024/04/09/writing-resources.md.html.md",
+    "2024/04/09",
+    "2024/04",
+    "2024",
+    "_posts/2024-04-05-default-on-purpose.md",
+    "_posts/2024-04-09-writing-resources.md",
+    "_posts/2024-04-22-soupin.md",
+    "_posts/2024-04-22-list-of-lists.md",
     "_posts/2024-03-20-ali-business.md",
+    "_posts/2024-03-22-improv-liberation.md",
+    "_posts/2024-04-05-2022-Books.md",
+    "_posts/2024-03-13-returning.md",
+    "_posts/2024-03-11-web-log.md",
+    "projects.md",
+    "assets/improv_headshot.jpeg",
+    "assets/improv_headshot.jpeg.sb-c0592d5f-4D3KE1",
     "index.md",
-    "improv.md",
-    "about.md"
+    "about.md",
+    "improv_headshot.jpeg",
+    "_drafts/2024-04-09-writing-resources.md.md",
+    "_drafts/excuses.md",
+    "assets.md",
+    "assets/dysregulation_circle.jpg",
+    "_drafts/pathless-path-2.md"
   ]
 }
