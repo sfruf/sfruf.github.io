@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/2024-05-02-sf-humanity.md",
+                "file": "_posts/2024-05-05-sf-humanity.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/2024-05-02-sf-humanity.md",
+                "file": "_posts/2024-05-05-sf-humanity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/2024-05-02-sf-humanity.md",
+                "file": "_posts/2024-05-05-sf-humanity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/2024-05-02-sf-humanity.md"
+                "file": "_posts/2024-05-05-sf-humanity.md"
               }
             }
           }
@@ -243,10 +243,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14a2ab6792c5d637",
+  "active": "246632eaf3c5a6ef",
   "lastOpenFiles": [
     "_posts/2024-05-02-entrepreneurs-heros.md",
-    "_drafts/2024-05-02-sf-humanity.md",
+    "_posts/2024-05-05-sf-humanity.md",
     "_posts/2024-04-01-creative-dysregulation.md",
     "_posts/2024-04-10-passive-wonder.md",
     "2024/04/09/writing-resources.html.md",
