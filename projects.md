@@ -20,4 +20,9 @@ I'm a core team member at Climate Change AI. Until recently I was the editor in 
 I've been studying Tai Chi for the past decade as well as other physical disciplines and I'm always trying to find was to help people get more into their bodies. A lot of my writing is focused around this and I'm starting to develop some workshops. 
 
 # Talk on Talks
-I'm refining a presentation that I give on how to give presentations, uniting my story telling, improv, and science communication personalities. If this is something you'd be interested in learning more about, feel free to drop me a line at sebastianfruf@gmail.com
+
+I'm refining a presentation that I give on how to give presentations, uniting my story telling, improv, and science communication personalities. If this is something you'd be interested in learning more about, feel free to drop me a line at sebastianfruf@gmail.com.
+
+# Reading
+
+I read a lot. Like 400 books over the past three years (which is when I quit social media). I'm probably reading right now. 
