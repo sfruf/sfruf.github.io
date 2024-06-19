@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Toothbrushing Problems, all around
+title: Toothbrushing Problems, All Around
 tags:
   - self-improvement
 ---
