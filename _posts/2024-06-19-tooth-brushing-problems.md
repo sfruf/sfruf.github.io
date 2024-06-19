@@ -15,4 +15,4 @@ I only started making progress when I realized I was facing a toothbrushing prob
 
 It feels like I'm surrounded by tooth-brushing problems that I assumed were diploma problems. Like, I'll do PT for my back and it'll be Better. Forever. 
 
-The arrival fallacy that lives in diploma problems is demotivating, because you feel you haven't arrived yet. This framing has helped my identify a lot of areas where there was nowhere to arrive.
+The arrival fallacy that lives in diploma problems is demotivating, because you feel you haven't arrived yet. This framing has helped me identify a lot of areas where there was nowhere to arrive and has given me more spaciousness in those areas. Pema Chödrön captures this idea well: "Cutting our expectation for a cure is a gift we can give ourselves."
