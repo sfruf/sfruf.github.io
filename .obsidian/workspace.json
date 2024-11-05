@@ -4,167 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "553a96f8248ef857",
+        "id": "62aa2b27cf5c5244",
         "type": "tabs",
         "children": [
           {
-            "id": "7ef0e06350f0cf37",
+            "id": "cf8de6cdbaa0cda4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-04-01-creative-dysregulation.md",
+                "file": "_posts/2024-11-05-double-edged-improv.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "2b22a5afd13e387c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-04-05-2022-Books.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dadc69e06540a8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-04-09-writing-resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3121ea6226b8dc6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-04-09-writing-resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "264f22e5153058fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-04-10-passive-wonder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5acb3cd209e37858",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-04-22-list-of-lists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9273db57d0bf3ac9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-04-22-soupin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b20d221abb3f18d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-05-02-entrepreneurs-heros.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14a2ab6792c5d637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-05-05-sf-humanity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe8be772010c62c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-05-08-figuring-it-out.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b96ff646d82e5ad9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-05-09-same-book.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bff6cdfe987f1d00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-05-25-management-books.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f28d52da98ca557f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-05-31-science-parody.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-05-double-edged-improv"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -199,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -207,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -230,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-31-science-parody.md",
+                "file": "_posts/2024-11-05-double-edged-improv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-11-05-double-edged-improv"
             }
           },
           {
@@ -247,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-31-science-parody.md",
+                "file": "_posts/2024-11-05-double-edged-improv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-11-05-double-edged-improv"
             }
           },
           {
@@ -261,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -270,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-31-science-parody.md"
-              }
+                "file": "_posts/2024-11-05-double-edged-improv.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-05-double-edged-improv"
             }
           }
         ]
@@ -291,42 +162,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "246632eaf3c5a6ef",
+  "active": "cf8de6cdbaa0cda4",
   "lastOpenFiles": [
-    "_posts/2024-05-25-management-books.md",
-    "_posts/2024-05-31-science-parody.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "test.md",
+    "_posts/2024-06-20-team-slow-change.md",
+    "_posts/2024-07-15-new-practice-old-practice.md",
+    "_posts/2024-11-05-buddhism-embodied.md",
+    "_posts/2024-11-05-double-edged-improv.md",
+    "_posts/2024-11-05-buddhism-embodiment.md",
     "_posts/2024-05-09-same-book.md",
+    "_posts/2024-05-31-science-parody.md",
+    "_posts/2024-05-25-management-books.md",
+    "_posts/2024-05-05-sf-humanity.md",
+    "_posts/2024-05-02-entrepreneurs-heros.md",
+    "_posts/2024-04-22-soupin.md",
+    "_posts/2024-04-09-writing-resources.md",
+    "_posts/2024-04-05-default-on-purpose.md",
     "_posts/2024-04-01-creative-dysregulation.md",
+    "_posts/2024-03-22-improv-liberation.md",
+    "_posts/2024-06-17-cut-example.md",
+    "_posts/2024-06-19-rest-days.md",
+    "_posts/2024-06-19-tooth-brushing-problems.md",
+    "about.md",
+    "projects.md",
+    "Untitled 1.md",
+    "test.md",
     "assets/same_book.jpg",
     "assets/PXL_20240508_174050096.jpg",
-    "_posts/2024-04-22-soupin.md",
     "_posts/2024-03-13-returning.md",
     "_posts/2024-03-20-ali-business.md",
-    "_posts/2024-03-22-improv-liberation.md",
     "_posts/2024-04-05-2022-Books.md",
-    "_posts/2024-04-05-default-on-purpose.md",
-    "_posts/2024-04-09-writing-resources.md",
     "_posts/2024-04-10-passive-wonder.md",
-    "_posts/2024-04-22-list-of-lists.md",
-    "_posts/2024-05-02-entrepreneurs-heros.md",
-    "_posts/2024-05-05-sf-humanity.md",
-    "_posts/2024-05-08-figuring-it-out.md",
-    "2024/04/09/writing-resources.html.md",
-    "2024/04/09/writing-resources.md.html.md",
     "2024/04/09",
     "2024/04",
     "2024",
-    "_posts/2024-03-11-web-log.md",
-    "projects.md",
     "assets/improv_headshot.jpeg",
     "assets/improv_headshot.jpeg.sb-c0592d5f-4D3KE1",
-    "index.md",
-    "about.md",
     "improv_headshot.jpeg",
-    "_drafts/2024-04-09-writing-resources.md.md",
     "assets/dysregulation_circle.jpg"
   ]
 }
